@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication", "WebApplication\WebApplication.csproj", "{206C0AD6-EBB2-42C1-91E9-F6FBB00B5527}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unleash-UI", "Unleash-UI\Unleash-UI.csproj", "{5D86DB3B-AB1A-4E9B-8293-A83440AD4D9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{206C0AD6-EBB2-42C1-91E9-F6FBB00B5527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{206C0AD6-EBB2-42C1-91E9-F6FBB00B5527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{206C0AD6-EBB2-42C1-91E9-F6FBB00B5527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{206C0AD6-EBB2-42C1-91E9-F6FBB00B5527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D86DB3B-AB1A-4E9B-8293-A83440AD4D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D86DB3B-AB1A-4E9B-8293-A83440AD4D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D86DB3B-AB1A-4E9B-8293-A83440AD4D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D86DB3B-AB1A-4E9B-8293-A83440AD4D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1A7DB48-676C-4F57-AA61-C1A1A475D8A0}
+	EndGlobalSection
+EndGlobal
